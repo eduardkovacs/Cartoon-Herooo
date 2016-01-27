@@ -1,0 +1,40 @@
+body {
+  background-color: #c9efef;
+}
+
+#putulica {text-decoration: line-through;
+}
+
+h1{
+color: #db2020;
+font-size: 40px;
+font-family: Helvetica, sans-serif;
+text-decoration: underline;
+}
+
+.pitic {
+color: gray;
+font-size: 20px;
+}
+
+h2{
+color: #3edce2;
+font-size: 60px;
+font-family: Helvetica, sans-serif;
+text-decoration: overline;
+}
+
+.pitbig
+{color: #c2d8d9;
+font-size: 45px;
+}
+
+span{
+  font-style: italic;
+}
+
+h2 span{
+  font-family: monospace, sans-serif;
+  font-size: 10px;
+  color: orange;
+}
