@@ -1,0 +1,51 @@
+ body{
+ 	margin:40px;
+ 	background-color: #dab817;
+ }
+
+ header{
+ 	background-color: #3e424b;
+ 	padding: 80px 40px 40px 40px;
+ 	text-align: center;
+ 	 }
+h1 {
+	font-size: 60pt;
+	color: white;
+	font-family: georgia, serif;
+}
+header img{
+	border-radius: 200px;
+	width: 500px;
+	border: 40px solid #dab817;
+}
+.content{
+	background-color: #3e424b;
+	max-width: 1300px;
+	margin: 40px auto;
+	padding: 40px 40px 40px 40px;
+	font-family: georgia, serif;
+}
+img.big-image{
+	max-width: 100%;
+	margin: 0px auto;
+}
+p.caption{
+	font-size: 16px;
+	font-style: italic;
+	color: #282828;
+}
+a{
+	color: #dab817;
+	text-decoration: none;
+}
+/* padding #1top #2righ #3bottom #4right*/
+
+
+
+ /*<header>
+		<img src="images/profile.jpg">
+		<h1>Ledy-Zeppelony Website</h1>
+	  </header>*/
+
+	  /*This is how you leave notes in CSS*/
+
